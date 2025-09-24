@@ -1,0 +1,11 @@
+# Core libraries
+numpy==1.26.5
+matplotlib==3.8.1
+seaborn==0.12.3
+
+# Deep learning
+tensorflow==2.16.0
+keras==2.16.0
+
+# Notebook
+jupyter==1.0.0
